@@ -1,0 +1,33 @@
+.thumbnail img{
+    width: 100%;
+}
+.thumbnail{
+    padding: 0;
+}
+.thumbnail .caption-full{
+    padding: 9px;
+}
+.delete-form{
+    display: inline;
+}
+#text{
+    text-align: center;
+}
+.yelp-form{
+    width: 30%;
+    margin: 25px auto;
+}
+#ImageContainer
+{
+ border-style: groove;
+ border-width: thick;
+ border-color: gray;
+ padding: 5px;
+ float: left;
+}
+.name{
+    padding-top: 15px;
+}
+.line{
+    border-top: 1px solid #7a7777;
+}
